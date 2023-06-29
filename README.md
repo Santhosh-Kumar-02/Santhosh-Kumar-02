@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santhosh Kumar</h1>
 <h3 align="center">A passionate data scientist from India</h3>
-<img align="center" alt="Coding" width="1000" src="https://lh5.googleusercontent.com/QVyzOfZCbhO1fREpGsyigpqL6J_-R_9zC792ZfRxVatQzS_jB4uriiARwj-_P2YAsNf5IgcZjO-1IchDRkY1NHCGq1Tc1qr0d5kK1rNwvsJ1tNOr3QTBw3xwQAIq9bm8GhntexJRsvpe3WE3X-_f-Ts">
+<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh-kumar-02&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh-kumar-02" /> </p>
 
